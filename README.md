@@ -49,4 +49,4 @@ We used HTML, CSS, and JS as a language to build this website. We also used JQue
 •
 # **Scope of work:**
 
-# In this project, Admin can view the candidate, filter the candidate as per the requirement, they have authority to update requirement statistics, and also, they can view feedback. So we will require a team of AI engineers to conduct this project every time. We also have database , so database engineers are also get jobs to maintain databases of the project.
+# In this project, User can view various Game Details, filter the Games as per the requirement, they can even view job opportunities as well as C-19 Updates. We've embed data from a lot of places so that the website remains updated and user can rely on it
