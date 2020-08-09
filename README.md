@@ -1,8 +1,6 @@
 ![](RackMultipart20200809-4-1exldtj_html_169a771ae7806a6.png)
 
-# **M**
-
-# **ajor League Hackathon**
+# **Major League Hackathon**
 
 # **Roll For Hacking**
 
