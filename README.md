@@ -1,12 +1,6 @@
 ![](RackMultipart20200809-4-1exldtj_html_169a771ae7806a6.png)
 
-# **Major League Hackathon**
 
-# **Roll For Hacking**
-
-# Title: Multi-Utility Gaming Website
-
-# **Team Members:**
 
 1.
 # Shejan N. Virani:
